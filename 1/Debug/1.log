@@ -1,0 +1,3 @@
+﻿  1.cpp
+C:\Users\1\Desktop\OOP\1\1.cpp(63): warning C4715: Player::GetСhaknorosity: значение возвращается не при всех путях выполнения
+  1.vcxproj -> C:\Users\1\Desktop\OOP\1\Debug\1.exe

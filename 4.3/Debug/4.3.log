@@ -1,0 +1,3 @@
+﻿  4.3.cpp
+C:\Users\1\Desktop\OOP\4.3\4.3.cpp(114,9): error C2660: Picture::calc: функция не принимает 0 аргументов
+C:\Users\1\Desktop\OOP\4.3\4.3.cpp(69,14): message : см. объявление "Picture::calc"

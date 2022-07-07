@@ -1,0 +1,3 @@
+﻿  2.cpp
+C:\Users\1\Desktop\OOP\2\2.cpp(79): warning C4715: player::getprice: значение возвращается не при всех путях выполнения
+  2.vcxproj -> C:\Users\1\Desktop\OOP\2\Debug\2.exe

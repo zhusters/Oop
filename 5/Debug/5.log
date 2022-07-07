@@ -1,0 +1,3 @@
+﻿  5.cpp
+C:\Users\1\Desktop\OOP\5\5.cpp(560,21): warning C4804: >: небезопасное использование типа "bool" в операции
+  5.vcxproj -> C:\Users\1\Desktop\OOP\5\Debug\5.exe
